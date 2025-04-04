@@ -1,2 +1,2 @@
-# Arshiya-AI-Interviewer
+# Mock-AI-Interviewer
 AI mock interview simulation
